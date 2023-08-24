@@ -1,5 +1,6 @@
 # House_price_prediction_Linear_Regression
-
+# So for this problem, I was using Linear Regression to predict the prices. However, I encountered overfitting due to using lots of variables for the model.
+# Then I decide to use Lasso Regression, as I have too much features and Lasso can do feature selection automatically.
 # Data fields
 Here's a brief version of what you'll find in the data description file.
 
